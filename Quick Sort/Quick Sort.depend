@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490036118 source:d:\college\3rd year\6th term\data structures 2\labs\lab 1\quick sort\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+

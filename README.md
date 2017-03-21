@@ -4,8 +4,8 @@ Just different sorting algorithms with complexity analyzing using Matlab.
 
 ## To Do ##
 
-- [ ] Generator class
-- [ ] OOP
+- [X] Generator class
+- [X] OOP
 - [ ] Commenting
 - [ ] Recording execution time & plotting. 
           

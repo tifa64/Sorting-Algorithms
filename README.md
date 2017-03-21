@@ -6,6 +6,7 @@ Just different sorting algorithms with complexity analyzing using Matlab.
 
 - [X] Generator class
 - [X] OOP
+- [X] Recording execution time & plotting.
 - [ ] Commenting
-- [ ] Recording execution time & plotting. 
+ 
           

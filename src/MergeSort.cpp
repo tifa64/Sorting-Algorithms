@@ -1,9 +1,12 @@
-#include <iostream>
+#include "MergeSort.h"
+
 #include <vector>
-using namespace std;
 
-
-void merge_array(vector<int>&l, vector<int>&r, vector<int>&nums, int n)
+MergeSort::MergeSort()
+{
+    //ctor
+}
+void MergeSort::merge_array(std::vector<int>&l, std::vector<int>&r, std::vector<int>&nums, int n)
 {
     int i, j, k;
     i = j = k = 0;
@@ -29,14 +32,14 @@ void merge_array(vector<int>&l, vector<int>&r, vector<int>&nums, int n)
     }
 }
 
-void merge_sort(int n, vector<int>&nums)
+void MergeSort::merge_sort(int n, std::vector<int>&nums)
 {
     if(n < 2)
         return;
 
     int mid = n/2;
-    vector<int>l(n+1);
-    vector<int>r(n-mid+1);
+    std::vector<int>l(n+1);
+    std::vector<int>r(n-mid+1);
 
     for(int i = 0 ; i < mid ; i++)
         l[i] = nums[i];
@@ -52,25 +55,7 @@ void merge_sort(int n, vector<int>&nums)
     merge_array(l, r, nums, n);
 }
 
-
-
-int main()
+MergeSort::~MergeSort()
 {
-    int n;
-    cout<<"Insert number of elements : ";
-    cin>>n;
-    vector<int>nums(n);
-
-    for(int i = 0 ; i < n ; i++)
-        cin>>nums[i];
-
-    merge_sort(n, nums);
-
-    for(int i = 0 ; i < n ; i++)
-        cout<< nums[i]<<" ";
-    return 0;
+    //dtor
 }
-/*
-9
-3 4 8 1 4 0 15 67 2
- */

@@ -1,0 +1,36 @@
+Welcome to Sorting Techniques
+1) Selection Sort
+Time taken for this algorithm with size 100 is :0
+Time taken for this algorithm with size 1000 is :4011000
+Time taken for this algorithm with size 10000 is :377067000
+Time taken for this algorithm with size 100000 is :40126058000
+
+2) Bubble Sort
+Time taken for this algorithm with size 100 is :0
+Time taken for this algorithm with size 1000 is :3510000
+Time taken for this algorithm with size 10000 is :487295000
+Time taken for this algorithm with size 100000 is :38997539000
+
+3) Insertion Sort
+Time taken for this algorithm with size 100 is :27224038000
+Time taken for this algorithm with size 1000 is :27523996000
+Time taken for this algorithm with size 10000 is :32485599000
+Time taken for this algorithm with size 100000 is :107863366000
+
+4) Heap Sort
+Time taken for this algorithm with size 100 is :73758000
+Time taken for this algorithm with size 1000 is :85232000
+Time taken for this algorithm with size 10000 is :87236000
+Time taken for this algorithm with size 100000 is :166447000
+
+5) Quick Sort
+Time taken for this algorithm with size 100 is :0
+Time taken for this algorithm with size 1000 is :0
+Time taken for this algorithm with size 10000 is :2508000
+Time taken for this algorithm with size 100000 is :32109000
+
+6) Merge Sort
+Time taken for this algorithm with size 100 is :0
+Time taken for this algorithm with size 1000 is :2005000
+Time taken for this algorithm with size 10000 is :11030000
+Time taken for this algorithm with size 100000 is :116815000

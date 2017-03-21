@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1490108419 source:c:\users\krietallo\desktop\sorting techniques\main.cpp
+	<iostream>
+	<vector>
+	<chrono>
+	<SelectionSort.h>
+	<Generate.h>
+	<BubbleSort.h>
+	<MergeSort.h>
+	<HeapSort.h>
+	<QuickSort.h>
+	<InsertionSort.h>
+
+1490105859 source:c:\users\krietallo\desktop\sorting techniques\src\selectionsort.cpp
+	"SelectionSort.h"
+	<vector>
+
+1490105729 c:\users\krietallo\desktop\sorting techniques\include\selectionsort.h
+	<vector>
+
+1490108448 source:c:\users\krietallo\desktop\sorting techniques\src\generate.cpp
+	"Generate.h"
+	<vector>
+	<cstdlib>
+
+1490108433 c:\users\krietallo\desktop\sorting techniques\include\generate.h
+	<vector>
+
+1490106803 source:c:\users\krietallo\desktop\sorting techniques\src\bubblesort.cpp
+	"BubbleSort.h"
+	<vector>
+	<iostream>
+
+1490106789 c:\users\krietallo\desktop\sorting techniques\include\bubblesort.h
+	<vector>
+
+1490107275 source:c:\users\krietallo\desktop\sorting techniques\src\mergesort.cpp
+	"MergeSort.h"
+	<vector>
+
+1490107286 c:\users\krietallo\desktop\sorting techniques\include\mergesort.h
+	<vector>
+
+1490107512 source:c:\users\krietallo\desktop\sorting techniques\src\heapsort.cpp
+	"HeapSort.h"
+	<vector>
+
+1490107431 c:\users\krietallo\desktop\sorting techniques\include\heapsort.h
+	<vector>
+
+1490107758 source:c:\users\krietallo\desktop\sorting techniques\src\quicksort.cpp
+	"QuickSort.h"
+	<cstdlib>
+	<vector>
+
+1490107758 c:\users\krietallo\desktop\sorting techniques\include\quicksort.h
+	<vector>
+
+1490107960 source:c:\users\krietallo\desktop\sorting techniques\src\insertionsort.cpp
+	"InsertionSort.h"
+	<vector>
+
+1490107960 c:\users\krietallo\desktop\sorting techniques\include\insertionsort.h
+	<vector>
+

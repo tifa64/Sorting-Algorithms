@@ -1,9 +1,10 @@
-#include <iostream>
+#include "SelectionSort.h"
 #include <vector>
+SelectionSort::SelectionSort()
+{
 
-using namespace std;
-
-void selection_sort(vector<int>&nums)
+}
+void SelectionSort::selection_sort(std::vector<int>&nums)
 {
 //pos_min is short for position of min
 	int pos_min, temp, sz = nums.size();
@@ -30,19 +31,7 @@ void selection_sort(vector<int>&nums)
 	}
 }
 
-int main()
+SelectionSort::~SelectionSort()
 {
-    int n;
-    cout<<"Insert number of elements : ";
-    cin>>n;
-    vector<int>nums(n+1);
-
-    for(int i = 1 ; i <= n ; i++)
-        cin>>nums[i];
-
-    selection_sort(nums);
-
-    for(int i = 1; i <= n; i++)
-        cout<<nums[i]<<' ';
-    return 0;
+    //dtor
 }

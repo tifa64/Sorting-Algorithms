@@ -63,3 +63,67 @@
 1490107960 c:\users\krietallo\desktop\sorting techniques\include\insertionsort.h
 	<vector>
 
+1490106803 source:d:\college\3rd year\6th term\data structures 2\labs\lab 1\sorting techniques\src\bubblesort.cpp
+	"BubbleSort.h"
+	<vector>
+	<iostream>
+
+1490106789 d:\college\3rd year\6th term\data structures 2\labs\lab 1\sorting techniques\include\bubblesort.h
+	<vector>
+
+1490108448 source:d:\college\3rd year\6th term\data structures 2\labs\lab 1\sorting techniques\src\generate.cpp
+	"Generate.h"
+	<vector>
+	<cstdlib>
+
+1490108433 d:\college\3rd year\6th term\data structures 2\labs\lab 1\sorting techniques\include\generate.h
+	<vector>
+
+1490107512 source:d:\college\3rd year\6th term\data structures 2\labs\lab 1\sorting techniques\src\heapsort.cpp
+	"HeapSort.h"
+	<vector>
+
+1490107431 d:\college\3rd year\6th term\data structures 2\labs\lab 1\sorting techniques\include\heapsort.h
+	<vector>
+
+1490107960 source:d:\college\3rd year\6th term\data structures 2\labs\lab 1\sorting techniques\src\insertionsort.cpp
+	"InsertionSort.h"
+	<vector>
+
+1490107960 d:\college\3rd year\6th term\data structures 2\labs\lab 1\sorting techniques\include\insertionsort.h
+	<vector>
+
+1490107275 source:d:\college\3rd year\6th term\data structures 2\labs\lab 1\sorting techniques\src\mergesort.cpp
+	"MergeSort.h"
+	<vector>
+
+1490107286 d:\college\3rd year\6th term\data structures 2\labs\lab 1\sorting techniques\include\mergesort.h
+	<vector>
+
+1490107758 source:d:\college\3rd year\6th term\data structures 2\labs\lab 1\sorting techniques\src\quicksort.cpp
+	"QuickSort.h"
+	<cstdlib>
+	<vector>
+
+1490107758 d:\college\3rd year\6th term\data structures 2\labs\lab 1\sorting techniques\include\quicksort.h
+	<vector>
+
+1490105859 source:d:\college\3rd year\6th term\data structures 2\labs\lab 1\sorting techniques\src\selectionsort.cpp
+	"SelectionSort.h"
+	<vector>
+
+1490105729 d:\college\3rd year\6th term\data structures 2\labs\lab 1\sorting techniques\include\selectionsort.h
+	<vector>
+
+1490471506 source:d:\college\3rd year\6th term\data structures 2\labs\lab 1\sorting techniques\main.cpp
+	<iostream>
+	<vector>
+	<chrono>
+	<SelectionSort.h>
+	<Generate.h>
+	<BubbleSort.h>
+	<MergeSort.h>
+	<HeapSort.h>
+	<QuickSort.h>
+	<InsertionSort.h>
+
